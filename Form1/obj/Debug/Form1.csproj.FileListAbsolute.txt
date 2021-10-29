@@ -1,0 +1,11 @@
+C:\Users\TUF GAMING\source\repos\Form1\Form1\bin\Debug\Form1.exe.config
+C:\Users\TUF GAMING\source\repos\Form1\Form1\bin\Debug\Form1.exe
+C:\Users\TUF GAMING\source\repos\Form1\Form1\bin\Debug\Form1.pdb
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.Sukses.resources
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.exe
+C:\Users\TUF GAMING\source\repos\Form1\Form1\obj\Debug\Form1.pdb
